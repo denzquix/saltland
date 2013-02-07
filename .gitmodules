@@ -1,0 +1,6 @@
+[submodule "win32-dev"]
+	path = win32-dev
+	url = https://github.com/denzquix/saltland-win32-dev.git
+[submodule "win32-bin"]
+	path = win32-bin
+	url = https://github.com/denzquix/saltland-win32-bin.git
